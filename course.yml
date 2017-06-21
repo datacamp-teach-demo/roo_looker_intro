@@ -1,6 +1,6 @@
-title                : roo looker intro
-description          : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
+title                : Roo Looker Intro
+description          : This course will teach you basic stuff about our data tool - Looker!
 university           : DataCamp
-difficulty_level     : 2
+difficulty_level     : 1
 time_needed          : 1 hour
 programming_language : python
