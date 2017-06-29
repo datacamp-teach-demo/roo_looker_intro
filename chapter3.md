@@ -1,5 +1,5 @@
 ---
-title       : Your second step in Looker
+title       : Your third step in Looker
 description : Welcome!
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
